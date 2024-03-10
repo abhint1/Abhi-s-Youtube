@@ -40,3 +40,7 @@ const ChannelCard = ({ channelDetail, marginTop }) => (
 );
 
 export default ChannelCard;
+
+
+
+// ChannelCard Code
